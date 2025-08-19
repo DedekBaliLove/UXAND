@@ -7,3 +7,5 @@
 3. **Clone repository**  
    ```bash
    git clone https://github.com/DedekBaliLove/UXAND.git
+
+4. cd UXAND
